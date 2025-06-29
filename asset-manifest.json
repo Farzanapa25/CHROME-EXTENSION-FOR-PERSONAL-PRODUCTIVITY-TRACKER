@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CHROME-EXTENSION-FOR-PERSONAL-PRODUCTIVITY-TRACKER/static/css/main.e6c13ad2.css",
+    "main.js": "/CHROME-EXTENSION-FOR-PERSONAL-PRODUCTIVITY-TRACKER/static/js/main.8c7e3fb4.js",
+    "static/js/453.42e0d0b5.chunk.js": "/CHROME-EXTENSION-FOR-PERSONAL-PRODUCTIVITY-TRACKER/static/js/453.42e0d0b5.chunk.js",
+    "index.html": "/CHROME-EXTENSION-FOR-PERSONAL-PRODUCTIVITY-TRACKER/index.html",
+    "main.e6c13ad2.css.map": "/CHROME-EXTENSION-FOR-PERSONAL-PRODUCTIVITY-TRACKER/static/css/main.e6c13ad2.css.map",
+    "main.8c7e3fb4.js.map": "/CHROME-EXTENSION-FOR-PERSONAL-PRODUCTIVITY-TRACKER/static/js/main.8c7e3fb4.js.map",
+    "453.42e0d0b5.chunk.js.map": "/CHROME-EXTENSION-FOR-PERSONAL-PRODUCTIVITY-TRACKER/static/js/453.42e0d0b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8c7e3fb4.js"
+  ]
+}
