@@ -116,3 +116,9 @@ This Chrome Extension is live and available to run locally via build/ folder, an
 The extension continues running in the background and updates your usage statistics in real time.
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/0050af70-b1d4-43df-9a00-a286f48aad19)
+
+![Image](https://github.com/user-attachments/assets/627d1195-21f9-493b-9369-462447f8be9b)
+
+![Image](https://github.com/user-attachments/assets/de4358cb-704b-4f50-9a82-95210025cf5e)
