@@ -53,11 +53,11 @@ Built with React for a smooth, clean, and responsive experience.
 
 # Installation
 
-Backend (Chrome Extension Background Script):
+- Backend (Chrome Extension Background Script):
 
 No external backend required. Background service runs with manifest.json and background.js as a service worker.
 
-Frontend Setup:
+- Frontend Setup:
 
 # Step 1: Clone the repository
 
@@ -87,10 +87,11 @@ Load the Extension in Chrome:
 
 5. Pin the extension from the puzzle icon
 
-🚀 Deployment
+# Deployment
+
 This Chrome Extension is live and available to run locally via build/ folder, and optionally can be packaged into a .crx or submitted to the Chrome Web Store.
 
-# Live GitHub Page (Web version):
+- Live GitHub Page (Web version):
 
  https://farzanapa25.github.io/CHROME-EXTENSION-FOR-PERSONAL-PRODUCTIVITY-TRACKER/
 
@@ -113,3 +114,5 @@ This Chrome Extension is live and available to run locally via build/ folder, an
   - Saved goal display
 
 The extension continues running in the background and updates your usage statistics in real time.
+
+# OUTPUT
