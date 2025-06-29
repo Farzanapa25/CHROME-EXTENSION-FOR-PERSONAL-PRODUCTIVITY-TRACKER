@@ -90,12 +90,14 @@ Load the Extension in Chrome:
 🚀 Deployment
 This Chrome Extension is live and available to run locally via build/ folder, and optionally can be packaged into a .crx or submitted to the Chrome Web Store.
 
-🔗 Live GitHub Page (Web version):
+# Live GitHub Page (Web version):
+
  https://farzanapa25.github.io/CHROME-EXTENSION-FOR-PERSONAL-PRODUCTIVITY-TRACKER/
 
 (Note: For full extension functionality, install it in Chrome via chrome://extensions/)
 
-📌 Usage
+# Usage
+
 • Open Chrome and install the extension
 
 • Click the extension icon → Enter your daily goal
